@@ -21,10 +21,6 @@ MonoDraft 专注于将扫描件或图片快速转化为单色（单一前景色 
 pip install pillow numpy opencv-python
 ```
 
-## 脚本重命名
-
-建议将脚本重命名为 `mono_draft.py` 以便统一项目命名。
-
 ## 使用示例
 
 ### 查看帮助
